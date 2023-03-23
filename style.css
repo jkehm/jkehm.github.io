@@ -1,21 +1,18 @@
-/*Deliverable 4.1: Adding an image to the Jumbotron, and making the smaller text larger and easier to see*/
+/*Deliverable 4.1: Adding an image to the Jumbotron, and changing what was p to a h2 element*/
 .jumbotron {
     background-image: url("../images/cells.jpg");
     background-size: 100% 100%;
     text-align: center;
   }
-.jumbotron p {
-    font-size: 30px;
-    font-weight: 500;
-}
+
 
 /*Deliverable 4.2: Add background color or a variety of compatible colors to the webpage*/
-h1 {
+.jumbotron h1 {
     background-color: black;
     color: white;
   }
 
-h2 {
+.jumbotron h2 {
     background-color: black;
     color: white;
   }
